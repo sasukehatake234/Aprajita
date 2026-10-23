@@ -1,0 +1,8 @@
+{
+  "name": "APARAJITA — Smart Women's Safety & Hardware Companion",
+  "description": "Empowering women with instant emergency SOS, physical ESP32/A7670C/NEO-6M keychain hardware pairing, live GPS telemetry, trusted contact broadcast, journey check-ins, and panic deterrent tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
